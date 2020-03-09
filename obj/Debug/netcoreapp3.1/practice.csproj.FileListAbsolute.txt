@@ -1,0 +1,10 @@
+/Users/j.wriley/Documents/6mod/practice/bin/Debug/netcoreapp3.1/practice.deps.json
+/Users/j.wriley/Documents/6mod/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.json
+/Users/j.wriley/Documents/6mod/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.dev.json
+/Users/j.wriley/Documents/6mod/practice/bin/Debug/netcoreapp3.1/practice.dll
+/Users/j.wriley/Documents/6mod/practice/bin/Debug/netcoreapp3.1/practice.pdb
+/Users/j.wriley/Documents/6mod/practice/obj/Debug/netcoreapp3.1/practice.csprojAssemblyReference.cache
+/Users/j.wriley/Documents/6mod/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfoInputs.cache
+/Users/j.wriley/Documents/6mod/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfo.cs
+/Users/j.wriley/Documents/6mod/practice/obj/Debug/netcoreapp3.1/practice.dll
+/Users/j.wriley/Documents/6mod/practice/obj/Debug/netcoreapp3.1/practice.pdb
